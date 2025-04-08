@@ -43,8 +43,14 @@
     {
       "name": "Ilya Setsko",
       "description": "FPIBank",
-      "walletAddress": "UQAymJPekbCDYvWqFtOkfqMiH6b6N-xXxkIuDj3KODin62Dg"
+      "walletAddress": "UQAymJPekbCDYvWqFtOkfqMiH6b6N-xXxkIuDj3KODin62Dg",
       "imageUrl": "https://static.wikia.nocookie.net/nowkie/images/e/e0/Nowkie_and_Sori.jpg/revision/latest?cb=20230711113638&path-prefix=ru"
+    },
+    {
+      "name": "Oboronitel",
+      "description": "@crypto_oborona & @the_tonus channels owner",
+      "walletAddress": "UQDFzBSXoQ2NFopNwL3uHe5BwT99p3uFDq-Tb-hPgkSbl3Yw",
+      "imageUrl": "https://i.ibb.co/Kjt3tw6k/2025-04-08-19-04-54.png"
     },
     {
       "name": "КриптоДед",
